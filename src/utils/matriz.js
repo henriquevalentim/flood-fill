@@ -20,6 +20,8 @@ function getColor(value) {
     return 'black'
   } else if (value === 1) {
     return 'yellow'
+  } else if (value === 5) {
+    return 'black'
   }
 }
 
